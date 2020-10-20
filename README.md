@@ -1,16 +1,21 @@
-# docker-vue-laravel
+# docker-web-template-vue-laravel
 
 ## Description
 A customized vuejs frontend and laravel backend.
 
-## Project technologies
-- docker
-- docker-compose
+## Tech stack
 - laravel
 - vuejs
   - axios
   - babel
   - router
+
+## Docker stack
+- docker
+- docker-compose
+- php:fpm-alpine
+- nginx:alpine
+- current-node:alpine
 
 ## Prerequisites
 - docker installed
